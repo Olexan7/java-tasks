@@ -5,3 +5,6 @@
 
 ## Branch part1.lesson02.task02
 Задание 2. Генерация N случайных чисел. Исключение ArithmeticException
+
+## Branch part1.lesson02.task03
+Задание 3. Генерация массива объектов и сортировка
