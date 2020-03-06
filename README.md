@@ -8,3 +8,6 @@
 
 ## Branch part1.lesson02.task03
 Задание 3. Генерация массива объектов и сортировка
+
+## Branch part1.lesson03.task01
+Задание 1. Класс MathBox. Методы summator, splitter, remove
