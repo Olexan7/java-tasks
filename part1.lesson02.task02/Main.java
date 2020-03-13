@@ -6,15 +6,13 @@
  */
 
 package com.company;
-import java.util.Scanner;
+
 import java.util.Random;
 
 public class Main {
+    static int N = 100;
 
     public static void main(String[] args) {
-        Scanner in = new Scanner(System.in);
-        System.out.print("Введите N: ");
-        int N = in.nextInt(); // количество случайных чисел
 
         byte [] arrayNumber = new byte [N]; // массив для хранения чисел длинной N
         Random rand = new Random ();
